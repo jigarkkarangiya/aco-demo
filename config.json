@@ -1,0 +1,8 @@
+{
+  "public": {
+    "default": {
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/5KCWo3ZqW6fofnGGmm4izR/graphql",
+      "adobe-commerce-optimizer": true,
+    }
+  }
+}
